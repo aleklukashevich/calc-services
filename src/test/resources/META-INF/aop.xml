@@ -1,0 +1,7 @@
+<aspectj>
+    <weaver options="-warn:none -Xlint:ignore"/>
+    <aspects>
+        <aspect name="utils.AllureMethodNameAspect"/>
+        <aspect name="utils.DneOnlineAddAspect"/>
+    </aspects>
+</aspectj>

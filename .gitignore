@@ -1,0 +1,9 @@
+*.sw?
+*.jar
+out/
+.idea/
+.classpath
+.project
+.settings
+/target
+/.allure
